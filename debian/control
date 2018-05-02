@@ -1,0 +1,14 @@
+Source: check-apcupsd
+Section: devel
+Priority: optional
+Maintainer: Maximilian Falkenstein <mfalkenstein@sos.ethz.ch>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: http://martintoft.dk/?p=check_apcupsd
+Vcs-Git: https://github.com/SOSETH/check_apcupsd.git
+Vcs-Browser: https://github.com/SOSETH/check_apcupsd
+
+Package: check-apcupsd
+Architecture: all
+Depends: ${misc:Depends}, apcupsd
+Description: Check status of APC UPSes

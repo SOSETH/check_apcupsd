@@ -1,0 +1,1 @@
+check_apcupsd.sh /usr/lib/nagios/plugins/

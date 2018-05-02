@@ -1,0 +1,5 @@
+check-apcupsd (2.6-1) unstable; urgency=medium
+
+  * Initial release, corresponds to upstream 2.6
+
+ -- Maximilian Falkenstein <mfalkenstein@sos.ethz.ch>  Wed, 02 May 2018 19:17:38 +0200
